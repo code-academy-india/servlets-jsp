@@ -34,3 +34,6 @@ session6
 
 session7
 	Session Management
+
+session8
+	Application Global Context
