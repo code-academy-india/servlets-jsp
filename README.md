@@ -22,3 +22,6 @@ session2
 
 session3
 	Headers, Cookies, Status and Dispatcher
+
+session4
+	Servlet Methods
