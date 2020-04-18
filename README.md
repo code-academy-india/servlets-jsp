@@ -19,3 +19,6 @@ session1
 
 session2
 	Dynamic Web Application
+
+session3
+	Headers, Cookies, Status and Dispatcher
