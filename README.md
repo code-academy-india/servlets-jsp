@@ -31,3 +31,6 @@ session5
 
 session6
 	Exceptions and JDBC Integration
+
+session7
+	Session Management
