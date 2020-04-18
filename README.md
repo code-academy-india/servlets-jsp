@@ -37,3 +37,6 @@ session7
 
 session8
 	Application Global Context
+
+session9
+	Filters
