@@ -16,3 +16,6 @@ Try running these projects from within IDE only.
 
 session1
 	Static Website
+
+session2
+	Dynamic Web Application
