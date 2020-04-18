@@ -28,3 +28,6 @@ session4
 
 session5
 	Forms Handling
+
+session6
+	Exceptions and JDBC Integration
